@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tarea-08-AspectJ:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tarea_08_AspectJ_jar</output-path>
+    <root id="archive" name="Tarea-08-AspectJ.jar">
+      <element id="module-output" name="Tarea-08-AspectJ" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/aspectj/aspectjrt/1.9.8.RC1/aspectjrt-1.9.8.RC1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
