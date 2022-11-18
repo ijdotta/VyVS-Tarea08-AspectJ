@@ -1,9 +1,9 @@
 # VyVS-Tarea08-AspectJ
 
-1. Tuve que realizar la tarea en IntelliJ porque las últimas versiones de Eclipse tienen un bug con AspectJ y la versión sugerida no está disponible para la arquitectura de la CPU de mi computadora.
+1. Tuve que realizar la tarea en IntelliJ porque las últimas versiones de Eclipse tienen un bug con AspectJ y la versión sugerida no está disponible para mi computadora.
 2. No es trivial configurar AspectJ en IntelliJ por lo que abajo van los pasos realizados en caso de querer ejecutarlo en el mismo IDE.
 3. Se incluye el directorio `target` con una build funcional.
-4. Se incluye un `jar` funcional.
+4. Se incluye un `jar` funcional, para evitar los pasos 2 y 3.
 
 
 ## Pasos para compilar en IntelliJ
