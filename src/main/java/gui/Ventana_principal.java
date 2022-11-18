@@ -367,10 +367,10 @@ public class Ventana_principal extends JFrame {
 			logger = Logger.getLogger(this.getClass().getName());
 
 			Handler hnd = new ConsoleHandler();
-			hnd.setLevel(Level.ALL);
+			hnd.setLevel(Level.OFF);
 			logger.addHandler(hnd);
 
-			logger.setLevel(Level.ALL);
+			logger.setLevel(Level.OFF);
 
 			Logger rootLoger = logger.getParent();
 			for (Handler h : rootLoger.getHandlers())
